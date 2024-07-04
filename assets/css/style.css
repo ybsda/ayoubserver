@@ -1090,7 +1090,7 @@ section {
 --------------------------------------------------------------*/
 .book-a-table .php-email-form {
   width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 8 9 240px 09 rgba(218, 209, 209, 0.12);
   padding: 30px;
   background: #fff;
 }
@@ -1117,7 +1117,7 @@ section {
 }
 
 .book-a-table .php-email-form .error-message br+br {
-  margin-top: 25px;
+  margin-top: 250px;
 }
 
 .book-a-table .php-email-form .sent-message {
